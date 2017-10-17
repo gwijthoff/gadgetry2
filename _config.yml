@@ -4,6 +4,7 @@ version: "v1"
 description: "Stop writing CSS and start building prototypes."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
+plugins_dir: ./_plugins
 
 # Tachyons Version
 tv: "4.7.0"
@@ -17,3 +18,12 @@ exclude: [node_modules, gulpfile.js]
 # Gems
 gems:
   - jekyll-seo-tag
+  - hash-joiner
+  - json
+  - open-uri
+
+# 18F's jekyl-get attributes
+jekyll_get:
+  data: posts
+  json: 'https://jsonplaceholder.typicode.com/posts'
+  cache: true
