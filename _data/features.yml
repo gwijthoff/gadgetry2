@@ -1,19 +1,64 @@
-- name: Functional CSS
-  description: "Front-end code is categorically bad and I think you should write less of it. If you're building websites for a living and still writing CSS all the damn time, welcome 2 the future."
-  icon: images/functional.svg
+- name: Gauge
+  description: Add-on or accessory.  Orig. connected with automobiles, comes to be connected to planes, machine guns, gramophones, cameras, etc. as accessories that enhance the given technology in a certain way or provide an expedient to a process.  by the 30s, one can speak of a "gadget idea," as an addition that fulfills a particular purpose, one which isn't necessarily needed.
+  icon: images/tachometer.svg
+  link: tags/gauges
 
-- name: Auto-update
-  description: "Using a potent combination of magic and node.js, BrowserSync automatically refreshes your browser every time you save. You can even test on multiple devices all at once using an external IP."
-  icon: images/auto.svg
+- name: Rig
+  description: Something rigged together on the fly.  by the 30s (must be earlier?) these are "inventions" put together by "plucky" youths -- a kind of mythology over and against the complex networks of corporate and academic R&D at that point.  becomes closely related to tool category by the 40s, as most are trivialities rarely mass produced, submitted by magazine readers, etc. as curiosities.
+  icon: images/lightbulb-o.svg
+  link: tags/rig
 
-- name: Actively Maintained
-  description: "I use Jekyons every day to create prototypes for profit & pleasure. That means any updates I decide to make in an attempt to make my job easier get passed on to you in the form of new features."
+- name: Tool
+  description: Fully engineered, self-contained device or multitool, usually small, compact, utilitarian, and more often than not, inexpensive.  In the 40s, becomes mainly a labor-saving, domestic device.  In the mid-40s into the 50s, "gadgets" used often to connote a large array of these labor-saving devices.  This sense of the term lends itself well to magazine pieces, and we see many full-page, image heavy spreads with many devices that help a particular activity--fishing, camping, photography, gardening, cooking.
+  icon: images/wrench.svg
+  link: tags/tool
+
+- name: Cogs
+  description: An individual piece, cog, or component within a larger mechanism.
+  icon: images/cog.svg
+  link: tags/cogs
+
+- name: Raygun
+  description: The fantastic.
+  icon: images/rocket.svg
+  link: tags/raygun
+
+- name: Portable
+  description: piece of electronic equipment--phone, radio, etc.  More expensive than the previous, non-electronic category.  Originally any electronic equipment, but later comes to signify specifically hand-held, portable electronic equipment.  initially, wireless sets beginning in the late 20s early 30s--as opposed to just accessories for those sets.  But very rare until… when, in the contemporary sense?  Check the wide tool category, may have missed some earlier, big handys waiting for hand-held versions…
+  icon: images/mobile.svg
+  link: tags/handy
+
+- name: Miniature
+  description: a miniature with no apparent or particular function.  A fashionable item to wear, as a lapel pin.
+  icon: images/search.svg
+  link: tags/mini
+
+- name: Needs
+  description: a device that fulfills a need that no one knew they had, that is, creates a need, an action, a function, an operation.  An idea for a gadget that hasn't been invented yet.  Close to gag tag.
   icon: images/heart.svg
+  link: tags/need
 
-- name: Jekyll Partials
-  description: "With Jekyll's templating engine, you can share partial sections of code across multiple pages. Make your :( static prototype :( feel like a ~*fancy app*~."
-  icon: images/partial.svg
+- name: Lever
+  description: A lever or control mechanism.
+  icon: images/sliders.svg
+  link: tags/lever
 
-- name: Easy Deployment
-  description: "Ready to share your creation with the world (or your Mom)? Spin up an outside IP using BrowserSync or deploy to Github Pages to share your work with others"
-  icon: images/deploy.svg
+- name: Gag
+  description: A novelty item, gag gift, gimmick, or magic trick.
+  icon: images/smile-o.svg
+  link: tags/gag
+
+- name: Wrinkle
+  description: A solution to a problem given material form.  Close or related to "wrinkle," but distinct from it in that a wrinkle is just a technique or a solution, the gadget actually involves a material solution, a tool.
+  icon: images/flash.svg
+  link: tags/wrinkle
+
+- name: Language
+  description: A crafty piece of rhetoric designed to get certain results.  Used mainly in business language, but also politics.
+  icon: images/comment.svg
+  link: tags/language
+
+- name: Miscellaneous
+  description: none of the above categories, an idiosyncratic usage.
+  icon: images/question.svg
+  link: tags/misc

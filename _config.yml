@@ -1,9 +1,9 @@
 # Site settings
-title: Jekyons
+title: Gadgetry
 version: "v1"
-description: "Stop writing CSS and start building prototypes."
+description: "A functional and fictional device."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "/" # the base hostname & protocol for your site
 plugins_dir: ./_plugins
 
 # Tachyons Version
@@ -24,6 +24,5 @@ gems:
 
 # 18F's jekyl-get attributes
 jekyll_get:
-  data: posts
-  json: 'https://jsonplaceholder.typicode.com/posts'
-  cache: true
+  data: gadgetry
+  json: 'https://gist.githubusercontent.com/gwijthoff/068df55cce3d3d3c49e2e6e01cdd6fb4/raw/5050177d2097a8ca385661d0b3581908be491d48/gadget_test.json'
