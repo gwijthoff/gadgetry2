@@ -26,3 +26,4 @@ gems:
 jekyll_get:
   data: gadgetry
   json: 'https://gist.githubusercontent.com/gwijthoff/068df55cce3d3d3c49e2e6e01cdd6fb4/raw/5050177d2097a8ca385661d0b3581908be491d48/gadget_test.json'
+  cache: true
