@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <i class="fa fa-mobile"></i> Portable
+title: <i class="fa fa-mobile-alt" style="color:red"></i> Portable
 ---
 
 {% for gadget in site.data.gadgetry %}

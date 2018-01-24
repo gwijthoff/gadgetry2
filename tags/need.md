@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <i class="fa fa-heart"></i> Needs
+title: <i class="fa fa-heart" style="color:red"></i> Needs
 ---
 
 {% for gadget in site.data.gadgetry %}

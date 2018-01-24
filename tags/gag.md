@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <i class="fa fa-smile-o"></i> Gag
+title: <i class="far fa-smile" style="color:red"></i> Gag
 ---
 
 {% for gadget in site.data.gadgetry %}

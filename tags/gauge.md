@@ -1,10 +1,10 @@
 ---
 layout: page
-title: <i class="fa fa-bolt" style="color:red"></i> Wrinkle
+title: <i class="fa fa-tachometer-alt" style="color:red"></i> Gauge
 ---
 
 {% for gadget in site.data.gadgetry %}
-{% if gadget.primary == "wrinkle" %}
+{% if gadget.primary == "gauge" %}
   <br>
   **Year:** {{gadget.year}}
   <br>

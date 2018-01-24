@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <i class="fa fa-sliders"></i> Lever
+title: <i class="fa fa-sliders-h" style="color:red"></i> Lever
 ---
 
 {% for gadget in site.data.gadgetry %}

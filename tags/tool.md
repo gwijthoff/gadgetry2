@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <i class="fa fa-wrench"></i> Tool
+title: <i class="fa fa-wrench" style="color:red"></i> Tool
 ---
 
 {% for gadget in site.data.gadgetry %}

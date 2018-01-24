@@ -1,10 +1,10 @@
 ---
 layout: page
-title: <i class="fa fa-tachometer"></i> Gauge
+title: <i class="fa fa-trademark" style="color:red"></i> Proper Name
 ---
 
 {% for gadget in site.data.gadgetry %}
-{% if gadget.primary == "gauge" %}
+{% if gadget.primary == "propername" %}
   <br>
   **Year:** {{gadget.year}}
   <br>

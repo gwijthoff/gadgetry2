@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <i class="fa fa-question"></i> Miscellaneous
+title: <i class="fa fa-question" style="color:red"></i> Miscellaneous
 ---
 
 {% for gadget in site.data.gadgetry %}

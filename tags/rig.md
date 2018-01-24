@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <i class="fa fa-lightbulb-o"></i> Rig
+title: <i class="far fa-lightbulb" style="color:red"></i> Rig
 ---
 
 {% for gadget in site.data.gadgetry %}

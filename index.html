@@ -1,13 +1,12 @@
 ---
 layout: default
 ---
-<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<link href="https://use.fontawesome.com/releases/v5.0.4/css/all.css" rel="stylesheet">
 
 <!-- Loop over _data/features.yml -->
 <div class="ma4 ma5-ns">
   {% for feature in site.data.features %}
   <div class="w-33-l pr4 mb5 fl-l mt4 cf-4th p-fix">
-    <img class="w2" src="{{ feature.icon }}">
     <a href="{{feature.link}}" class="link dim red"><h2 class="normal">{{ feature.name }}</h2></a>
     <p class="lh-copy f5">{{ feature.description }}</p>
   </div>

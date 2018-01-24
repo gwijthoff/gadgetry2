@@ -1,6 +1,6 @@
 # Site settings
 title: Gadgetry
-version: "v1"
+version: "v1.2"
 description: "A functional and fictional device."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "/" # the base hostname & protocol for your site
@@ -25,5 +25,5 @@ gems:
 # 18F's jekyl-get attributes
 jekyll_get:
   data: gadgetry
-  json: 'https://gist.githubusercontent.com/gwijthoff/068df55cce3d3d3c49e2e6e01cdd6fb4/raw/5050177d2097a8ca385661d0b3581908be491d48/gadget_test.json'
-  cache: true
+  json: 'https://gist.githubusercontent.com/gwijthoff/00f0f38f2257f8124b34b09ff52e476e/raw/8aeea183f4739f37683ceb46d73aa2361f0c1925/json_test3.json'
+  cache: false

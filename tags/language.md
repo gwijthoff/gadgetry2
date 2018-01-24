@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <i class="fa fa-comment"></i> Language
+title: <i class="fa fa-comment" style="color:red"></i> Language
 ---
 
 {% for gadget in site.data.gadgetry %}

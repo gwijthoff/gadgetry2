@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <i class="fa fa-cog"></i> Cogs
+title: <i class="fa fa-cog" style="color:red"></i> Cogs
 ---
 
 {% for gadget in site.data.gadgetry %}

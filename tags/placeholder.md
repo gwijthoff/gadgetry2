@@ -1,10 +1,10 @@
 ---
 layout: page
-title: <i class="fa fa-bolt" style="color:red"></i> Wrinkle
+title: <i class="fa fa-spinner fa-pulse" style="color:red"></i> Placeholder
 ---
 
 {% for gadget in site.data.gadgetry %}
-{% if gadget.primary == "wrinkle" %}
+{% if gadget.primary == "placeholder" %}
   <br>
   **Year:** {{gadget.year}}
   <br>

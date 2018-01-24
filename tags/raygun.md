@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <i class="fa fa-rocket"></i> Raygun
+title: <i class="fa fa-rocket" style="color:red"></i> Raygun
 ---
 
 {% for gadget in site.data.gadgetry %}

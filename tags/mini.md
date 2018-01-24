@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <i class="fa fa-search"></i> Miniature
+title: <i class="fa fa-search" style="color:red"></i> Miniature
 ---
 
 {% for gadget in site.data.gadgetry %}
