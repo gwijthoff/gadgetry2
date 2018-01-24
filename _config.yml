@@ -5,6 +5,7 @@ description: "A functional and fictional device."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "/" # the base hostname & protocol for your site
 plugins_dir: ./_plugins
+destination: docs
 
 # Tachyons Version
 tv: "4.7.0"
