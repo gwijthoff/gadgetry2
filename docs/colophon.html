@@ -33,6 +33,76 @@
   <link rel="stylesheet" href="/css/main.css">
   <link href="https://use.fontawesome.com/releases/v5.0.4/css/all.css" rel="stylesheet">
   <link rel="shortcut icon" type="image/png" href="/favicon.ico">
+
+  <!-- linking to stylesheet for marginnotes -->
+
+  <style amp-custom>
+  
+  /* Import ET Book styles
+   adapted from https://github.com/edwardtufte/et-book/blob/gh-pages/et-book.css */
+/* Tufte CSS styles */
+/* Chapter Epigraphs */
+/* end chapter epigraphs styles */
+/* Links: replicate underline that clears descenders */
+/* Sidenotes, margin notes, figures, captions */
+img {
+  max-width: 100%; }
+
+.sidenote, .marginnote {
+  float: right;
+  clear: right;
+  margin-right: -60%;
+  width: 50%;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 1.1rem;
+  line-height: 1.3;
+  vertical-align: baseline;
+  position: relative; }
+
+.table-caption {
+  float: right;
+  clear: right;
+  margin-right: -60%;
+  width: 50%;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 1.0rem;
+  line-height: 1.6; }
+
+.sidenote-number {
+  counter-increment: sidenote-counter; }
+
+.sidenote-number:after, .sidenote:before {
+  content: counter(sidenote-counter) " ";
+  font-family: et-book-roman-old-style;
+  position: relative;
+  vertical-align: baseline; }
+
+.sidenote-number:after {
+  content: counter(sidenote-counter);
+  font-size: 1rem;
+  top: -0.5rem;
+  left: 0.1rem; }
+
+.sidenote:before {
+  content: counter(sidenote-counter) " ";
+  top: -0.5rem; }
+
+pre {
+  width: 52.5%;
+  padding-left: 2.5%;
+  overflow-x: auto; }
+
+@media (max-width: 760px) {
+  pre {
+    width: 90%;
+    padding: 0; } }
+
+  </style>
+
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+
 </head>
 
 
@@ -101,7 +171,11 @@
     <div>
       <p>Research data and working notes for an upcoming book, <em>Gadgetry: A History of Techniques.</em> Site’s bones are Jekyll (a static site generator), fleshed out in Tachyons (a CSS library), as mashed up in <a href="https://github.com/joshosbrn/jekyons">jekyons</a>.</p>
 
-<p>I compile my research data in a Google spreadsheet, then export to JSON using an add-on called <a href="https://github.com/Synthoid/ExportSheetData">ExportSheetData</a>. This site then pulls from the JSON data each time it’s generated using the <a href="https://github.com/18F/jekyll-get">jekyll-get</a> plugin. Icons are by <a href="https://fontawesome.com/">Font Awesome</a>.</p>
+<p>I compile my research data in a Google spreadsheet, then export to JSON using an add-on called <a href="https://github.com/Synthoid/ExportSheetData">ExportSheetData</a>. This site then pulls from the JSON data each time it’s generated using the <a href="https://github.com/18F/jekyll-get">jekyll-get</a> plugin.</p>
+
+<p>The use of <a href="https://fontawesome.com/">Font Awesome</a> icons was inspired by Otto Neurath’s 1920s <a href="http://www.designhistory.org/Symbols_pages/isotype.html">ISOTYPE</a>.</p>
+
+<p><img src="/images/isotype1.gif" class="w-10" /> <img src="/images/isotype2.gif" class="w-10" /> <img src="/images/isotype3.gif" class="w-10" /> <img src="/images/isotype4.gif" class="w-10" /> <img src="/images/isotype5.gif" class="w-10" /></p>
 
     </div>
   </div>
