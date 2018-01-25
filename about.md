@@ -11,7 +11,7 @@ For this book, I search archives of novels, magazines, and newspapers in order t
 
 Inspired by Otto Neurath's 1920s design of the [ISOTYPE](http://www.designhistory.org/Symbols_pages/isotype.html) system, categories of gadgetry are indicated by icons {% icon fa-tachometer-alt red %} throughout this project.
 
-Because I have hand-coded this "dataset" and designated myself the categories into which I sort each instance of the word (like **levers** <a href="/tags/lever"> <i class="fa fa-sliders-h" style="color:red"></i></a> and **ray guns** <a href="/tags/raygun"> <i class="fa fa-rocket" style="color:red"></i></a>), the portrait that emerges of a discourse on technology could be described as entirely of my own making, as opposed to algorithmically-generated. Part of this book is interested in exploring the difference between these two categories of interpretation when it comes to the history of collective mentalities.
+Because I have hand-coded this "dataset" and designated myself the categories into which I sort each instance of the word (like control mechanisms <a href="/tags/lever"> <i class="fa fa-sliders-h" style="color:red"></i></a> and imaginary devices <a href="/tags/raygun"> <i class="fa fa-rocket" style="color:red"></i></a>), the portrait that emerges of a discourse on technology could be described as entirely of my own making, as opposed to algorithmically-generated. Part of this book is interested in exploring the difference between these two categories of interpretation when it comes to the history of collective mentalities.
 
 <!--
 
