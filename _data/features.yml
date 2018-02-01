@@ -1,3 +1,24 @@
+# NOTES
+#
+# The closeness of `TOOL` and `PLACEHOLDER`: placeholder when you're refering
+# to any obejct at all, tool when you're refering to a particular tool, like
+# a popcorn machine, etc.
+#
+# 'HANDY' pre-smartphone: a hand-held or portable piece of electronic equipment,
+# associated with media.
+#
+# More often than not, it's almost impossible to narrow the connotations down
+# to a single meaning.
+
+# COMPLETENESS
+#
+# COHA
+# 'gadget' through 1939
+# 'gadgets' through 1929
+#
+# LANTERN
+# 'gadget' or 'gadgets' through 1933…
+
 - name: <i class="fa fa-spinner fa-pulse" style="color:white"></i> Placeholder
   description: A word that substitutes for the forgotten or ignored proper name of any given object.
   link: tags/placeholder
@@ -62,7 +83,7 @@
   link: tags/gag
 
 - name: <i class="fa fa-bolt" style="color:white"></i> Wrinkle
-  description: A material solution to a problem.
+  description: A material solution to a problem, an invention.
   notes: Close or related to "wrinkle," but distinct from it in that a wrinkle is just a technique or a solution, the gadget actually involves a material solution, a tool.
   link: tags/wrinkle
 
