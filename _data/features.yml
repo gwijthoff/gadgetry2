@@ -4,8 +4,8 @@
 # to any obejct at all, tool when you're refering to a particular tool, like
 # a popcorn machine, etc.
 #
-# 'HANDY' pre-smartphone: a hand-held or portable piece of electronic equipment,
-# associated with media.
+# 'HANDY' pre-smartphone: not necessarily hand-held or portable, but signifies
+# electronic equipment in general, usually (?) associated with media.
 #
 # More often than not, it's almost impossible to narrow the connotations down
 # to a single meaning.
@@ -60,7 +60,7 @@
 
 - name: <i class="fa fa-mobile-alt" style="color:white"></i> Portable
   description: A self-contained, electronic device such as a phone or radio.
-  notes: More expensive than the previous, non-electronic category.  Originally any electronic or high-tech piece of equipment, but later comes to signify specifically hand-held, portable electronic equipment.  Initially, wireless sets beginning in the late 20s early 30s--as opposed to just accessories for those sets.  But very rare until… when, in the contemporary sense?  Check the wide tool category, may have missed some earlier, big handys waiting for hand-held versions…  OR… it's only a handy if it's hand-held and portable? Nixon's recording system referred to as a gadget… is that more of a placeholder, tool, or handy?  **HANDY. I think it has to do with signifying electronics. Nixon is bad with gadgets in that quote, which isn't just any old tool, but specifically electronic tools. Go back through tool/handy/placeholder to disambiguate.**
+  notes: More expensive than the previous, non-electronic category.  Originally any electronic or high-tech piece of equipment, but later comes to signify specifically hand-held, portable electronic equipment.  Initially, wireless sets beginning in the late 20s early 30s--as opposed to just accessories for those sets.  But very rare until… when, in the contemporary sense?  Check the wide tool category, may have missed some earlier, big handys waiting for hand-held versions…  OR… it's only a handy if it's hand-held and portable? Nixon's recording system referred to as a gadget… is that more of a placeholder, tool, or handy?  **HANDY. I think it has to do with signifying electronics. Nixon is bad with gadgets in that quote, which isn't just any old tool, but specifically electronic tools. Go back through tool/handy/placeholder to disambiguate. Originally used a tag called "tech" or "instrument" or "system" to signify these things. Maybe add this tag back into the mix?**
   link: tags/handy
 
 - name: <i class="fa fa-search" style="color:white"></i> Miniature
@@ -84,12 +84,12 @@
   link: tags/gag
 
 - name: <i class="fa fa-bolt" style="color:white"></i> Wrinkle
-  description: A material solution to a problem, an invention.
+  description: A means of solving a problem that usually involves some kind of device. Can also be a non-material idea or concept.
   notes: Close or related to "wrinkle," but distinct from it in that a wrinkle is just a technique or a solution, the gadget actually involves a material solution, a tool.
   link: tags/wrinkle
 
 - name: <i class="fa fa-comment" style="color:white"></i> Language
-  description: A standardized piece of rhetoric often used in business and political contexts. Can be a part of speech, or even a scheming idea.
+  description: A standardized piece of rhetoric often used in business and political contexts. Can be a part of speech, or even a devious idea or scheme.
   link: tags/language
 
 - name: <i class="fa fa-question" style="color:white"></i> Miscellaneous
