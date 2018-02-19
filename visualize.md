@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: visualize
 title: Forms of Gadgetry, 1900-1980
 ---
 
