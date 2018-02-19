@@ -12,23 +12,19 @@
 
 # COMPLETENESS
 #
-# COHA
-# 'gadget' through 1939
-# 'gadgets' through 1929
+# COHA (max 25 entries per decade for each word?)
+# 'gadget' through 1930s; 1980s
+# 'gadgets' through 1920s; 1980s
 #
 # LANTERN
-# 'gadget' or 'gadgets' through 1933…
-
-- name: <i class="fa fa-spinner fa-pulse" style="color:white"></i> Placeholder
-  description: A word that substitutes for the forgotten or ignored proper name of any given object.
-  link: tags/placeholder
+# 'gadget' or 'gadgets' through 1937 (begin again @ result no. 49)…
 
 - name: <i class="fa fa-trademark" style="color:white"></i> Proper Name
   description: A word used as the proper name for a particular object.
   link: tags/propername
 
 - name: <i class="fa fa-tachometer-alt" style="color:white"></i> Gauge
-  description: An add-on, modification, or accessory.
+  description: An add-on, modification, accessory, or component displaying system status.
   notes: Orig. connected with automobiles, comes to be connected to planes, machine guns, gramophones, cameras, etc. as accessories that enhance the given technology in a certain way or provide an expedient to a process.  By the 30s, one can speak of a "gadget idea," as an addition that fulfills a particular purpose, one which isn't necessarily needed.
   link: tags/gauge
 
@@ -42,6 +38,11 @@
   notes: In the 40s, becomes mainly a labor-saving, domestic device.  In the mid-40s into the 50s, "gadgets" used often to connote a large array of these labor-saving devices.  This sense of the term lends itself well to magazine pieces, and we see many full-page, image heavy spreads with many devices that help a particular activity--fishing, camping, photography, gardening, cooking.
   link: tags/tool
 
+- name: <i class="fa fa-spinner fa-pulse" style="color:white"></i> Placeholder
+  description: A word that substitutes for the forgotten or ignored proper name of any given object.
+  notes: Placeholders often refer to kitchen gadgets, later electronic gadgets. Specific types of random tools. should I just remove all "placeholder" tags from the graphs? It's not interesting when the word stands for anything at all, right? Because I'm looking for the contours of that thing. Theoretically, I should never just have a "placeholder" category.  Sure, it's a placeholder, but for WHAT KIND of object?
+  link: tags/placeholder
+
 - name: <i class="fa fa-cog" style="color:white"></i> Cogs
   description: An individual piece, cog, or component within a larger mechanism.
   notes:
@@ -53,13 +54,13 @@
   link: tags/vehicle
 
 - name: <i class="fa fa-rocket" style="color:white"></i> Raygun
-  description: A fantastic or imaginary object.
+  description: A fantastic or imaginary object, or an idea for a device that hasn't been invented yet.
   notes:
   link: tags/raygun
 
 - name: <i class="fa fa-mobile-alt" style="color:white"></i> Portable
   description: A self-contained, electronic device such as a phone or radio.
-  notes: More expensive than the previous, non-electronic category.  Originally any electronic equipment, but later comes to signify specifically hand-held, portable electronic equipment.  initially, wireless sets beginning in the late 20s early 30s--as opposed to just accessories for those sets.  But very rare until… when, in the contemporary sense?  Check the wide tool category, may have missed some earlier, big handys waiting for hand-held versions…
+  notes: More expensive than the previous, non-electronic category.  Originally any electronic or high-tech piece of equipment, but later comes to signify specifically hand-held, portable electronic equipment.  Initially, wireless sets beginning in the late 20s early 30s--as opposed to just accessories for those sets.  But very rare until… when, in the contemporary sense?  Check the wide tool category, may have missed some earlier, big handys waiting for hand-held versions…  OR… it's only a handy if it's hand-held and portable? Nixon's recording system referred to as a gadget… is that more of a placeholder, tool, or handy?  **HANDY. I think it has to do with signifying electronics. Nixon is bad with gadgets in that quote, which isn't just any old tool, but specifically electronic tools. Go back through tool/handy/placeholder to disambiguate.**
   link: tags/handy
 
 - name: <i class="fa fa-search" style="color:white"></i> Miniature
@@ -68,7 +69,7 @@
   link: tags/mini
 
 - name: <i class="fa fa-heart" style="color:white"></i> Needs
-  description: A device that fulfills a need that no one knew they had, or conversely, an idea for a device that hasn't been invented yet.
+  description: A device that fulfills a need that no one knew they had. A tool that ends up complicating a task but whose user feels they somehow still need it. Something seen as ridiculous and unnecessary.
   notes: that is, creates a need, an action, a function, an operation.
   link: tags/need
 
@@ -78,7 +79,7 @@
   link: tags/lever
 
 - name: <i class="far fa-smile" style="color:white"></i> Gag
-  description: A novelty item, gag gift, gimmick, or magic trick.
+  description: A novelty item, gag gift, gimmick, magic trick, or toy.
   notes:
   link: tags/gag
 
@@ -88,7 +89,7 @@
   link: tags/wrinkle
 
 - name: <i class="fa fa-comment" style="color:white"></i> Language
-  description: A standardized piece of rhetoric used in business and political contexts.
+  description: A standardized piece of rhetoric often used in business and political contexts. Can be a part of speech, or even a scheming idea.
   link: tags/language
 
 - name: <i class="fa fa-question" style="color:white"></i> Miscellaneous
