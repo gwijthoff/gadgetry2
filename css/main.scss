@@ -2,12 +2,17 @@
 # Overwrite Tachyons here. Don't go overboard!
 ---
 
-@import 'https://fonts.googleapis.com/css?family=Raleway|Raleway+Dots:400,700';
+@import 'https://fonts.googleapis.com/css?family=Raleway|Raleway+Dots';
 
 .roboto {
   font-family: "Raleway";
   letter-spacing: .05em;
   padding: 25px;
+}
+
+.pagetitle {
+  font-family: "Raleway Dots";
+  font-size: 3rem;
 }
 
 .cf {

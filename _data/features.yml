@@ -34,8 +34,8 @@
   link: tags/rig
 
 - name: <i class="fa fa-wrench" style="color:white"></i> Tool
-  description: A fully engineered, self-contained device or multitool, usually small, compact, utilitarian, and more often than not, inexpensive.
-  notes: In the 40s, becomes mainly a labor-saving, domestic device.  In the mid-40s into the 50s, "gadgets" used often to connote a large array of these labor-saving devices.  This sense of the term lends itself well to magazine pieces, and we see many full-page, image heavy spreads with many devices that help a particular activity--fishing, camping, photography, gardening, cooking.
+  description: A fully engineered, self-contained device or multitool, usually small, compact, utilitarian, and more often than not, inexpensive. This gadget is usually some kind of labor-saving, often household, tool.
+  notes: In the 40s, becomes mainly a labor-saving, domestic device.  In the mid-40s into the 50s, "gadgets" used often to connote a large array of these labor-saving devices.  This sense of the term lends itself well to magazine pieces, and we see many full-page, image heavy spreads with many devices that help a particular activity--fishing, camping, photography, gardening, cooking. Similar to `need`, but the latter is more explicitly ridiculous, or unnecessary, while `tool` actually does something useful, at least as far as its user is concerned.
   link: tags/tool
 
 - name: <i class="fa fa-spinner fa-pulse" style="color:white"></i> Placeholder
@@ -60,17 +60,17 @@
 
 - name: <i class="fa fa-mobile-alt" style="color:white"></i> Portable
   description: A self-contained, electronic device such as a phone or radio.
-  notes: More expensive than the previous, non-electronic category.  Originally any electronic or high-tech piece of equipment, but later comes to signify specifically hand-held, portable electronic equipment.  Initially, wireless sets beginning in the late 20s early 30s--as opposed to just accessories for those sets.  But very rare until… when, in the contemporary sense?  Check the wide tool category, may have missed some earlier, big handys waiting for hand-held versions…  OR… it's only a handy if it's hand-held and portable? Nixon's recording system referred to as a gadget… is that more of a placeholder, tool, or handy?  **HANDY. I think it has to do with signifying electronics. Nixon is bad with gadgets in that quote, which isn't just any old tool, but specifically electronic tools. Go back through tool/handy/placeholder to disambiguate. Originally used a tag called "tech" or "instrument" or "system" to signify these things. Maybe add this tag back into the mix?**
+  notes: More expensive than the previous, non-electronic category.  Originally any electronic or high-tech piece of equipment, but later comes to signify specifically hand-held, portable electronic equipment.  Initially, wireless sets beginning in the late 20s early 30s, as opposed to just accessories for those sets.  But very rare until… when, in the contemporary sense?  Check the wide tool category, may have missed some earlier, big handys waiting for hand-held versions…  OR… it's only a handy if it's hand-held and portable? Nixon's recording system referred to as a gadget… is that more of a placeholder, tool, or handy?  HANDY. I think it has to do with signifying electronics. Nixon is bad with gadgets in that quote, which isn't just any old tool, but specifically electronic tools. Go back through tool/handy/placeholder to disambiguate. Originally used a tag called "tech" or "instrument" or "system" to signify these things. Maybe add this tag back into the mix?  There should be a transition between tool (as a mechanical gadget) to handy as a piece of electronic equipment, either an entire system/infrastructure, or an immovable device, like Nixon's tape recorder. It's only later that handy becomes *portable* electronic gadgets.
   link: tags/handy
 
 - name: <i class="fa fa-search" style="color:white"></i> Miniature
-  description: A miniature object with no apparent or particular function. A fashionable accessory, such as a lapel pin.
+  description: A miniature object with no apparent or particular function. Also, a fashionable accessory, such as a lapel pin, or a bag.
   notes:
   link: tags/mini
 
 - name: <i class="fa fa-heart" style="color:white"></i> Needs
   description: A device that fulfills a need that no one knew they had. A tool that ends up complicating a task but whose user feels they somehow still need it. Something seen as ridiculous and unnecessary.
-  notes: that is, creates a need, an action, a function, an operation.
+  notes: that is, creates a need, an action, a function, an operation. Entries with the secondary tag `trivial` might be better classified as `need`?
   link: tags/need
 
 - name: <i class="fa fa-sliders-h" style="color:white"></i> Lever
@@ -80,11 +80,11 @@
 
 - name: <i class="far fa-smile" style="color:white"></i> Gag
   description: A novelty item, gag gift, gimmick, magic trick, or toy.
-  notes:
+  notes: In general, this tag can be used for "gadgets" with negative connotations. Replacing quality education with televised lessons, etc.
   link: tags/gag
 
 - name: <i class="fa fa-bolt" style="color:white"></i> Wrinkle
-  description: A means of solving a problem that usually involves some kind of device. Can also be a non-material idea or concept.
+  description: A means of solving a problem that usually involves some kind of device. Can also be a non-material idea or concept, or a material demonstration of a scientific concept.
   notes: Close or related to "wrinkle," but distinct from it in that a wrinkle is just a technique or a solution, the gadget actually involves a material solution, a tool.
   link: tags/wrinkle
 
