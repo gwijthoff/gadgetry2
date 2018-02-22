@@ -17,7 +17,9 @@ This site contains research data and working notes for an upcoming book, *Gadget
 
 Across the twentieth century, many kinds of objects were described as gadgets, from dashboard gauges to atomic bombs, can-openers to smartphones. While "gadget" can be a placeholder for any kind of object, even imaginary ones, its evolving application to particular tools and techniques reveals important lessons about our relationship to technology. The gadget is a unique genre, comprising physical objects, conceptions, and habits.
 
-<!-- What counts as a gadget at different moments in time and why? -->
+<!-- What counts as a gadget at different moments in time and why?
+
+Different kinds of tools and techniques for using them count as `gadgetry` during different moments in time. The question is why, and what the history of those techniques offers our current impasse as users of emerging media today.-->
 
 For this book, I search archives of novels, magazines, and newspapers in order to explore the distinctly vernacular philosophies---the media theories from below---that emerge from users of technology and their everyday practices. Using databases like the Corpus of Historical American English, Historical American Newspapers, and the Media History Digital Library, I proceed by collecting as many instances of the word "gadget" as possible and plugging them into categories of my own making based on how the term is applied: is the gadget handmade or mass produced, seen as important or a trinket? Does the word refer to the entirety of the tool or a component within it? And so on.
 
