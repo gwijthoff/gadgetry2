@@ -1,10 +1,10 @@
 ---
 layout: page
-title: <i class="fa fa-mobile-alt" style="color:red"></i> Mobile
+title: <i class="fas fa-power-off" style="color:red"></i> Apparatus
 ---
 
 {% for gadget in site.data.gadgetry %}
-{% if gadget.primary == "handy" %}
+{% if gadget.primary == "apparatus" %}
   <br>
   **Year:** {{gadget.year}}
   <br>

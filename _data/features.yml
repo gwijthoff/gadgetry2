@@ -10,6 +10,7 @@
 # More often than not, it's almost impossible to narrow the connotations down
 # to a single meaning.
 
+
 # COMPLETENESS
 #
 # COHA (max 25 entries per decade for each word?)
@@ -51,7 +52,7 @@
   link: tags/rig
 
 - name: <i class="fa fa-tachometer-alt" style="color:white"></i> Gauge
-  description: An add-on, modification, accessory, or component to an existing tool or vehicle. Especially a gauge that displays system status.
+  description: An add-on, modification, accessory, or component to an existing tool, vehicle, or activity like photography or fishing. Especially a gauge that displays system status.
   notes: Orig. connected with automobiles, comes to be connected to planes, machine guns, gramophones, cameras, etc. as accessories that enhance the given technology in a certain way or provide an expedient to a process.  By the 30s, one can speak of a "gadget idea," as an addition that fulfills a particular purpose, one which isn't necessarily needed.
   link: tags/gauge
 
@@ -70,9 +71,14 @@
   notes: This gadget is usually some kind of labor-saving, often household, tool. In the 40s, becomes mainly a labor-saving, domestic device.  In the mid-40s into the 50s, "gadgets" used often to connote a large array of these labor-saving devices.  This sense of the term lends itself well to magazine pieces, and we see many full-page, image heavy spreads with many devices that help a particular activity--fishing, camping, photography, gardening, cooking. Similar to `need`, but the latter is more explicitly ridiculous, or unnecessary, while `tool` actually does something useful, at least as far as its user is concerned.
   link: tags/tool
 
+- name: <i class="fas fa-power-off" style="color:white"></i> Apparatus
+  description: An electronic instrument or system, a piece of media technology that remains fixed in place, like a stereo or answering machine.
+  notes:
+  link: tags/apparatus
+
 - name: <i class="fa fa-mobile-alt" style="color:white"></i> Mobile
-  description: A self-contained, electronic device such as a phone or radio.
-  notes: More expensive than the previous, non-electronic category.  Originally any electronic or high-tech piece of equipment, but later comes to signify specifically hand-held, portable electronic equipment.  Initially, wireless sets beginning in the late 20s early 30s, as opposed to just accessories for those sets.  But very rare until… when, in the contemporary sense?  Check the wide tool category, may have missed some earlier, big handys waiting for hand-held versions…  OR… it's only a handy if it's hand-held and portable? Nixon's recording system referred to as a gadget… is that more of a placeholder, tool, or handy?  HANDY. I think it has to do with signifying electronics. Nixon is bad with gadgets in that quote, which isn't just any old tool, but specifically electronic tools. Go back through tool/handy/placeholder to disambiguate. Originally used a tag called "tech" or "instrument" or "system" to signify these things. Maybe add this tag back into the mix?  There should be a transition between tool (as a mechanical gadget) to handy as a piece of electronic equipment, either an entire system/infrastructure, or an immovable device, like Nixon's tape recorder. It's only later that handy becomes *portable* electronic gadgets.
+  description: A self-contained, portable, and hand-held electronic device such as a transistor radio or smartphone.
+  notes: There should be a transition between tool (as a mechanical gadget) to handy as a piece of electronic equipment, either an entire system/infrastructure, or an immovable device, like Nixon's tape recorder. It's only later that handy becomes *portable* electronic gadgets.
   link: tags/handy
 
 - name: <i class="fa fa-search" style="color:white"></i> Miniature
