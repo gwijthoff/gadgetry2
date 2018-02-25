@@ -13,11 +13,17 @@
 # COMPLETENESS
 #
 # COHA (max 25 entries per decade for each word?)
-# 'gadget' through 1930s; 1980s; 1990s…
-# 'gadgets' through 1920s; 1980s
+# 'gadget' through 1930s; 1960s (every 3rd); 1980s; 1990s…
+# 'gadgets' through 1920s; 1960s (every 3rd); 1980s
 #
 # LANTERN
 # 'gadget' or 'gadgets' through 1937 (begin again @ result no. 49)…
+#
+# AF-AM NEWSPAPERS http://ezaccess.libraries.psu.edu/login?url=http://infoweb.newsbank.com/?db=EANX&d_collections=EANAAA
+# 1930s (2 only); 1960s
+#
+# GOOGLE BOOKS
+# How much did I do in grad school???
 
 - name: <i class="fa fa-heart" style="color:white"></i> Needs
   description: An overwrought tool that ends up complicating the very task it's designed for. Seen as ridiculous by everyone but their user, for whom it fulfills a need they never knew they had.
@@ -36,7 +42,7 @@
 
 - name: <i class="fa fa-bolt" style="color:white"></i> Wrinkle
   description: Names the means or technique of solving a problem rather than the tool employed. Can also be a non-material idea or concept, or a material demonstration of a scientific concept.
-  notes: Close or related to "wrinkle," but distinct from it in that a wrinkle is just a technique or a solution, the gadget actually involves a material solution, a tool.
+  notes: Can also be an invention, in that an invention is also an idea. Close or related to "wrinkle," but distinct from it in that a wrinkle is just a technique or a solution, the gadget actually involves a material solution, a tool.
   link: tags/wrinkle
 
 - name: <i class="far fa-lightbulb" style="color:white"></i> Rig
@@ -80,7 +86,7 @@
   link: tags/vehicle
 
 - name: <i class="fa fa-spinner fa-pulse" style="color:white"></i> Placeholder
-  description: A word that substitutes for the forgotten or ignored proper name of any given object.
+  description: A word that substitutes for the forgotten or ignored proper name of any given object. A word that signifies miscellany; sundry objects.
   notes: Placeholders often refer to kitchen gadgets, later electronic gadgets. Specific types of random tools. should I just remove all "placeholder" tags from the graphs? It's not interesting when the word stands for anything at all, right? Because I'm looking for the contours of that thing. Theoretically, I should never just have a "placeholder" category.  Sure, it's a placeholder, but for WHAT KIND of object?
   link: tags/placeholder
 
