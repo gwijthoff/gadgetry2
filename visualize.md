@@ -28,6 +28,8 @@ Read more about these graphics [here.](/about#method)
       or
       feature.link == "tags/tool"
       or
+      feature.link == "tags/apparatus"
+      or
       feature.link == "tags/handy"
       %}
         <h4 class="normal"><a href="{{feature.link}}" class="link dim red">{{ feature.name }}</a></h4>
