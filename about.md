@@ -30,3 +30,8 @@ Because I have hand-coded this "dataset" and designated myself the categories in
 - ["Public Enemies,"](http://reallifemag.com/public-enemies/) *Real Life Magazine*
 - ["Artifactual Interpretation,"](http://wythoff.net/pdf/Wythoff_2015_Artifactual_Interpretation.pdf) *Journal of Contemporary Archaeology*
 - ["Pocket Wireless and the Shape of Media to Come, 1899-1922,"](http://wythoff.net/pdf/Wythoff_2013_Pocket_Wireless_and_the_Shape_of_Media_to_Come,_1899%E2%80%931922.pdf) *Grey Room*
+
+## colloquium images
+
+- Pitt-Rivers [one](images/pittrivers_plate3h.png), [two](images/pittrivers_plate16h.jpg), [three](images/pittrivers_plate18h.jpg)
+- [Raymond Loewy](images/loewy_1933.jpg)
