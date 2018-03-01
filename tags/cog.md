@@ -1,10 +1,10 @@
 ---
 layout: page
-title: <i class="fa fa-trademark" style="color:red"></i> Proper Name
+title: <i class="fa fa-cog" style="color:red"></i> Cogs
 ---
 
 {% for feature in site.data.features %}
-{% if feature.link == "tags/propername" %}
+{% if feature.link == "tags/cog" %}
 <p class="f4">{{ feature.description }}</p>
 {% endif %}
 {% endfor %}
@@ -15,7 +15,7 @@ title: <i class="fa fa-trademark" style="color:red"></i> Proper Name
 {: style="text-align: center"}
 
 {% for gadget in site.data.gadgetry %}
-{% if gadget.primary == "propername" %}
+{% if gadget.primary == "cog" %}
   <br>
   **Year:** {{gadget.year}}
   <br>

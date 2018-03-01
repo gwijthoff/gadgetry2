@@ -59,7 +59,7 @@
 - name: <i class="fa fa-cog" style="color:white"></i> Cogs
   description: An individual piece, cog, or component within a larger tool or system.
   notes:
-  link: tags/cogs
+  link: tags/cog
 
 - name: <i class="fa fa-sliders-h" style="color:white"></i> Lever
   description: A lever or control mechanism used to operate a tool or system.
