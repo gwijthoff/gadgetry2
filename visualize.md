@@ -66,3 +66,39 @@ Read more about these graphics [here.](/about#method)
     {% endfor %}
   </div>
 </article>
+
+<br>
+<br>
+◎ ◎ ◎ ◎ ◎ ◎ ◎
+{: style="text-align: center"}
+
+<article class="cf">
+  <div class="fl w-60 tc">
+    <h2>different communities of practice</h2>
+    <div class="flourish-embed" data-src="story/4029"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+  </div>
+  <div class="fl w-40 tj pa4">
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    {% for feature in site.data.features %}
+      {% if
+      feature.link == "tags/need"
+      %}
+        <p class="f6 bg-dark-red light-gray"><a href="/tags/need"> <i class="fa fa-heart" style="color:white"></i></a> "{{ feature.ex }}"</p>
+        <p class="f6">–{{ feature.source }}</p>
+      {% endif %}
+    {% endfor %}
+    {% for feature in site.data.features %}
+      {% if
+      feature.link == "tags/tool"
+      %}
+        <p class="f6 bg-yellow"><a href="/tags/tool"> <i class="fa fa-wrench" style="color:gray"></i></a> "{{ feature.ex }}"</p>
+        <p class="f6">–{{ feature.source }}</p>
+      {% endif %}
+    {% endfor %}
+  </div>
+</article>
