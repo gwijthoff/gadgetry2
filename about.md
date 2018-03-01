@@ -13,7 +13,7 @@ In writing a cultural history of the gadget, I'm interested in the [curious ritu
 
 ## <a name="method"></a>Method
 
-This companion site contains research data and working notes for an upcoming book, *Gadgetry: A History of Techniques.* In writing about the imaginative space between a user and a tool, one of my entry points has been to ask: what counts as a gadget at different moments in time and why?
+This companion site contains research data and working notes for an upcoming book, *Gadgetry: A History of Techniques.* In writing about the imaginative space between a user and a tool, one of my entry points has been to ask: what counted as a gadget at different moments in time and why?
 
 Across the twentieth century, many kinds of objects were described as gadgets, from dashboard gauges to atomic bombs, can-openers to Walkmen. While "gadget" can be a placeholder for any kind of object, even imaginary ones, its evolving application to particular tools and techniques reveals important lessons about our relationship to technology. The gadget is a unique genre, comprising physical objects, conceptions, and habits.
 
@@ -30,8 +30,3 @@ Because I have hand-coded this "dataset" and designated myself the categories in
 - ["Public Enemies,"](http://reallifemag.com/public-enemies/) *Real Life Magazine*
 - ["Artifactual Interpretation,"](http://wythoff.net/pdf/Wythoff_2015_Artifactual_Interpretation.pdf) *Journal of Contemporary Archaeology*
 - ["Pocket Wireless and the Shape of Media to Come, 1899-1922,"](http://wythoff.net/pdf/Wythoff_2013_Pocket_Wireless_and_the_Shape_of_Media_to_Come,_1899%E2%80%931922.pdf) *Grey Room*
-
-## colloquium images
-
-- Pitt-Rivers [one](images/pittrivers_plate3h.png), [two](images/pittrivers_plate16h.jpg), [three](images/pittrivers_plate18h.jpg)
-- [Raymond Loewy](images/loewy_1933.jpg)
