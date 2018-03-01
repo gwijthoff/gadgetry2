@@ -29,6 +29,8 @@
 - name: <i class="fa fa-heart" style="color:white"></i> Needs
   description: An overwrought tool that ends up complicating the very task it's designed for. Seen as ridiculous by everyone but their user, for whom it fulfills a need they never knew they had.
   notes: that is, creates a need, an action, a function, an operation. Entries with the secondary tag `trivial` might be better classified as `need`?
+  ex: Like all Americans, we seem too anxious to buy gadgets and conveniences that we should do without. All too many of the oppressed of the earth use such conveniences as opiates. A group of people that are always the last hired, the first fired, and are always relegated to the least desirable jobs, should be careful how they spend their money when they get it.
+  source: Laureen White, "Says Negro Must Learn to Sacrifice." <em>Arkansas State Press,</em> May 15, 1953
   link: tags/need
 
 - name: <i class="fa fa-rocket" style="color:white"></i> Raygun
@@ -69,6 +71,8 @@
 - name: <i class="fa fa-wrench" style="color:white"></i> Tool
   description: A fully engineered, self-contained device or multitool, typically small, compact, utilitarian, and more often than not, inexpensive. Hand-powered and mechanical.
   notes: This gadget is usually some kind of labor-saving, often household, tool. In the 40s, becomes mainly a labor-saving, domestic device.  In the mid-40s into the 50s, "gadgets" used often to connote a large array of these labor-saving devices.  This sense of the term lends itself well to magazine pieces, and we see many full-page, image heavy spreads with many devices that help a particular activity--fishing, camping, photography, gardening, cooking. Often, an ingenious invention that is more than just cobbled together for a one-off purpose, like rig.
+  ex: …electric fans, refrigerators and washing machines, vacuum cleaners and gramophones.  The new gadgets may be highly valued in themselves for the increased comfort or convenience which they bring, or for their effect in reducing household drudgery and saving time.
+  source: Ronald Philip Dore,	<em>City Life in Japan</em> (University of California Press, 1958)
   link: tags/tool
 
 - name: <i class="fas fa-power-off" style="color:white"></i> Apparatus
