@@ -26,5 +26,5 @@ gems:
 # 18F's jekyl-get attributes
 jekyll_get:
   data: gadgetry
-  json: 'https://raw.githubusercontent.com/gwijthoff/gadgetry/master/_data/gadget_data.json'
+  json: '_data/gadget_data.json'
   cache: false
