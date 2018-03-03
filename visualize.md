@@ -15,7 +15,7 @@ Read more about these graphics [here.](/about#method)
     <h2>parts, wholes, and types of tools</h2>
     <div class="flourish-embed" data-src="visualisation/21758"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
   </div>
-  <div class="fl w-40 tj pa4">
+  <div class="fl w-40 tj pa4-ns">
     {% for feature in site.data.features %}
       {% if
       feature.link == "tags/rig"
@@ -74,30 +74,43 @@ Read more about these graphics [here.](/about#method)
 
 <article class="cf">
   <div class="fl w-60 tc">
-    <h2>different communities of practice</h2>
+    <h2>communities of practice</h2>
     <div class="flourish-embed" data-src="story/4029"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
   </div>
   <div class="fl w-40 tj pa4">
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
     {% for feature in site.data.features %}
       {% if
       feature.link == "tags/need"
       %}
-        <p class="f6 bg-dark-red light-gray"><a href="/tags/need"> <i class="fa fa-heart" style="color:white"></i></a> "{{ feature.ex }}"</p>
-        <p class="f6">–{{ feature.source }}</p>
+        <p class="f6 bg-dark-red light-gray"><a href="/tags/need"> <i class="fa fa-heart" style="color:white"></i></a> "{{ feature.ex2 }}"<br />–{{ feature.source2 }}</p>
       {% endif %}
     {% endfor %}
     {% for feature in site.data.features %}
       {% if
       feature.link == "tags/tool"
       %}
-        <p class="f6 bg-yellow"><a href="/tags/tool"> <i class="fa fa-wrench" style="color:gray"></i></a> "{{ feature.ex }}"</p>
-        <p class="f6">–{{ feature.source }}</p>
+        <p class="f6 bg-yellow"><a href="/tags/tool"> <i class="fa fa-wrench" style="color:gray"></i></a> "{{ feature.ex2 }}"<br />–{{ feature.source2 }}</p>
+      {% endif %}
+    {% endfor %}
+    {% for feature in site.data.features %}
+      {% if
+      feature.link == "tags/gauge"
+      %}
+        <p class="f6 bg-green light-gray"><a href="/tags/gauge"> <i class="fa fa-tachometer-alt" style="color:white"></i></a> "{{ feature.ex2 }}"<br />–{{ feature.source2 }}</p>
+      {% endif %}
+    {% endfor %}
+    {% for feature in site.data.features %}
+      {% if
+      feature.link == "tags/wrinkle"
+      %}
+        <p class="f6 bg-purple light-gray"><a href="/tags/wrinkle"> <i class="fa fa-bolt" style="color:white"></i></a> "{{ feature.ex2 }}"<br />–{{ feature.source2 }}</p>
+      {% endif %}
+    {% endfor %}
+    {% for feature in site.data.features %}
+      {% if
+      feature.link == "tags/rig"
+      %}
+        <p class="f6 bg-dark-blue light-gray"><a href="/tags/rig"> <i class="fa fa-lightbulb" style="color:white"></i></a> "{{ feature.ex2 }}"<br />–{{ feature.source2 }}</p>
       {% endif %}
     {% endfor %}
   </div>
