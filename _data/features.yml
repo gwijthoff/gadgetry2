@@ -29,85 +29,125 @@
 - name: <i class="fa fa-heart" style="color:white"></i> Needs
   description: An overwrought tool that ends up complicating the very task it's designed for. Seen as ridiculous by everyone but their user, for whom it fulfills a need they never knew they had.
   notes: that is, creates a need, an action, a function, an operation. Entries with the secondary tag `trivial` might be better classified as `need`?
-  ex: Like all Americans, we seem too anxious to buy gadgets and conveniences that we should do without. All too many of the oppressed of the earth use such conveniences as opiates. A group of people that are always the last hired, the first fired, and are always relegated to the least desirable jobs, should be careful how they spend their money when they get it.
-  source: Laureen White, "Says Negro Must Learn to Sacrifice." <em>Arkansas State Press,</em> May 15, 1953
+  ex: Society begins to take on the character of the kept woman whose role is expected to be submission and luxurious passivity. Each day brings its addition of silks, trinkets, and shiny <span class="red">gadgets</span>, new pleasure techniques and new pills for pep and painlessness.
+  source: "Marshall McLuhan, <em>The Mechanical Bride: Folklore of Industrial Man</em> (1951)"
+  ex2: Like all Americans, we seem too anxious to buy gadgets and conveniences that we should do without. All too many of the oppressed of the earth use such conveniences as opiates. A group of people that are always the last hired, the first fired, and are always relegated to the least desirable jobs, should be careful how they spend their money when they get it.
+  source2: Laureen White, <em>Arkansas State Press,</em> May 15, 1953
   link: tags/need
 
 - name: <i class="fa fa-rocket" style="color:white"></i> Raygun
   description: A fantastic or imaginary tool. An idea for an invention whose material prerequisites aren't yet available.
   notes:
+  ex: We do the serotonin diffraction in here. This room's plasma research. Remind me to bring you back sometime when the big centrifuge is running. Fascinating stuff.' . . . Harker puffed along behind the lab director, dazzled by the array of formidable and incomprehensible <span class="red">gadgetry</span>, bewildered by the flow of unfamiliar terminology.
+  source: Robert Silverberg, <em>Recalled to Life</em> (1972)
   link: tags/raygun
 
 - name: <i class="far fa-smile" style="color:white"></i> Gag
   description: Various kinds of trivialities. A novelty item, gag gift, gimmick, magic trick, or toy. Embodied in the French phrase <em>c'est du gadget</em> for concepts that are gimmicky or just for fun.
   notes: In general, this tag can be used for "gadgets" with negative connotations. Replacing quality education with televised lessons, etc.
+  ex: Latest novelty to roll out of Hollywood--"Groucho Goggles." This plastic <span class="red">gadget</span> for young and old fun-lovers makes everyone look, act, and sound like Groucho Marx, famed NBC quizmaster.
+  source: <em>The Plain Dealer,</em> July 15, 1955
   link: tags/gag
 
 - name: <i class="fa fa-bolt" style="color:white"></i> Wrinkle
   description: Names the means or technique of solving a problem rather than the tool employed. Can also be a non-material idea or concept, or a material demonstration of a scientific concept.
   notes: Can also be an invention, in that an invention is also an idea. Close or related to "wrinkle," but distinct from it in that a wrinkle is just a technique or a solution, the gadget actually involves a material solution, a tool.
+  ex: I have found Americans out. They are <span class="red">gadget</span>-minded. If they see a thing that needs to be done, they rig up a device, mechanical or mental, and make the thing do itself with no further bother. As a result, they have created a touch-the-button civilization, and I for one admire it.  Why go on doing a thing in the same old way, over and over again, if we can make a robot do it for us, and do it better?  My hat is of to the <span class="red">gadget</span> mind.
+  source: Joseph Newton, <em>Living Every Day</em> (1937)
+  ex2: Because she hated to hear her favorite surgeon grumble, Registered Nurse Meloneze Robinson became an inventor. “Why,” asked Dr. Asa Yancey, each time he was to perform an amputation, “doesn’t someone devise a simple method to keep the patient’s limb immobile during the operation?” At her post at the Tuskegee Veterans Administration hospital, Nurse Robinson devised the first amputation surgery limb support, shown above. Dr. Yancey was the first to use the gadget after it was patented after two years work, $800 and tons of anxiety.
+  source2: <em>Los Angeles Tribune,</em> Jan 15, 1960
   link: tags/wrinkle
 
 - name: <i class="far fa-lightbulb" style="color:white"></i> Rig
   description: A tool rigged together on the fly, made from available materials lying around. A prototype or stopgap.
   notes: By the 30s (must be earlier?) these are "inventions" put together by "plucky" youths -- a kind of mythology over and against the complex networks of corporate and academic R&D at that point.  becomes closely related to tool category by the 40s, as most are trivialities rarely mass produced, submitted by magazine readers, etc. as curiosities.
+  ex: Pliers, a file, and a pile of wire coat hangers are the only equipment and materials required for making a variety of wire articles useful in the home.  For purposes in which rustproof qualities are important, <span class="red">gadgets</span> can be constructed from galvanized hangers.
+  source: <em>Popular Science,</em> September 1934
+  ex2: We made a wooden platform for the tents to keep their floors dry and hold the tents straight -- the stakes had not held in the wet ground. Down at the river we made a trap that funneled fish into a wire cage, and from a simple roof and frame and some of the mosquito netting we built a mosquito-proof gazebo where we could congregate. These were gadgets, not inventions, but they made life more comfortable, and within very few days I could see the skeleton of a settlement in Jeronimo.
+  source2: Paul Theroux, <em>Mosquito Coast</em> (1981)
   link: tags/rig
 
 - name: <i class="fa fa-tachometer-alt" style="color:white"></i> Gauge
   description: An add-on, modification, accessory, or component to an existing tool, vehicle, or activity like photography or fishing. Especially a gauge that displays system status.
   notes: Orig. connected with automobiles, comes to be connected to planes, machine guns, gramophones, cameras, etc. as accessories that enhance the given technology in a certain way or provide an expedient to a process.  By the 30s, one can speak of a "gadget idea," as an addition that fulfills a particular purpose, one which isn't necessarily needed.
+  ex: Imagine sitting outside a Dreadnought and trying to stabilise it with external <span class="red">gadgets</span>, in the shape of water-ailerons worked by a lever from the bridge and a series of relay mechanisms! Incidentally, “automatically” stable machines, consisting of aeroplanes of the present type stabilised by means of <span class="red">gadgets</span> such as gyroscopes, pendula, and so forth, do not seem very promising.
+  source: <em>Aeroplane and Commercial Aviation News,</em> 1914
+  ex2: Women request mechanical gadgets that they can operate with a minimum of effort. And today's car has been so tailored to the woman's tastes that the automobile has taken on a whole new group of functions that men alone would not have dared to demand for themselves with such conveniences as power steering, power brakes, seating adjustments and electric window lifts.
+  source2: <em>The Plain Dealer,</em> Sept 10, 1954
   link: tags/gauge
 
 - name: <i class="fa fa-cog" style="color:white"></i> Cogs
   description: An individual piece, cog, or component within a larger tool or system.
   notes:
+  ex: Yet that was what he did. Directly under the car he lay and looked upward into pipes — petrol, steam, and water — with a keen and searching eye. I telegraphed Mr. Pyecroft a question. 'Not — in-the — least,' was the answer. 'Steam <span class="red">gadgets</span> always take him that way. We had a bit of a riot at Parsley Green through his tryin’ to show a traction-engine haulin’ gipsy-wagons how to turn corners.'
+  source: Rudyard Kipling, "Steam Tactics," <em>Saturday Evening Post</em> (1902)
   link: tags/cog
 
 - name: <i class="fa fa-sliders-h" style="color:white"></i> Lever
   description: A lever or control mechanism used to operate a tool or system.
   notes:
+  ex: Over-confidence and eagerness to get going with the new outfit frequently induces people of newly purchased cameras to use the camera before they have read the instructions. The consequence too often is that something jams because some little <span class="red">gadget</span> was not properly adjusted, although reference to a single line in the instructions would have avoided the accident.
+  source: <em>Scientific American,</em> May 1940
   link: tags/lever
 
 - name: <i class="fa fa-wrench" style="color:white"></i> Tool
   description: A fully engineered, self-contained device or multitool, typically small, compact, utilitarian, and more often than not, inexpensive. Hand-powered and mechanical.
   notes: This gadget is usually some kind of labor-saving, often household, tool. In the 40s, becomes mainly a labor-saving, domestic device.  In the mid-40s into the 50s, "gadgets" used often to connote a large array of these labor-saving devices.  This sense of the term lends itself well to magazine pieces, and we see many full-page, image heavy spreads with many devices that help a particular activity--fishing, camping, photography, gardening, cooking. Often, an ingenious invention that is more than just cobbled together for a one-off purpose, like rig.
-  ex: …electric fans, refrigerators and washing machines, vacuum cleaners and gramophones.  The new gadgets may be highly valued in themselves for the increased comfort or convenience which they bring, or for their effect in reducing household drudgery and saving time.
-  source: Ronald Philip Dore,	<em>City Life in Japan</em> (University of California Press, 1958)
+  ex: To beat the torrid summer heat and utilize every available short-cut to better homemaking, the up-to-date housewife is keeping the simple, inexpensive <span class="red">gadgets</span> shown on these pages high on the 'buying list.'
+  source: <em>Jet,</em> July 28, 1955
+  ex2: …electric fans, refrigerators and washing machines, vacuum cleaners and gramophones.  The new gadgets may be highly valued in themselves for the increased comfort or convenience which they bring, or for their effect in reducing household drudgery and saving time.
+  source2: Ronald Philip Dore,	<em>City Life in Japan</em> (1958)
   link: tags/tool
 
 - name: <i class="fas fa-power-off" style="color:white"></i> Apparatus
   description: An electronic instrument or system, a piece of media technology that remains fixed in place, like a stereo or answering machine.
   notes: original tags included tech, instrument, system, matic. Search for these as well?
+  ex: The tapes that prompted Richard Nixon's Watergate resignation in 1974 might never have existed had he not been such a klutz with <span class="red">gadgets</span>. Nixon was reluctant to have his conversations recorded, writes former Chief of Staff H.R. Haldeman in Prologue, a National Archives publication. But if there had to be a taping system, the President said, he wanted something simple -- like Lyndon Johnson's manually operated setup. Haldeman was worried that his chief would forget to turn the gizmo on when he wanted it, or -- worse -- to turn it off when he didn't.
+  source: <em>Time Magazine,</em> Sept 12, 1988
   link: tags/apparatus
 
 - name: <i class="fa fa-mobile-alt" style="color:white"></i> Mobile
   description: A self-contained, portable, and hand-held electronic device such as a transistor radio or smartphone.
   notes: There should be a transition between tool (as a mechanical gadget) to handy as a piece of electronic equipment, either an entire system/infrastructure, or an immovable device, like Nixon's tape recorder. It's only later that handy becomes *portable* electronic gadgets.
+  ex: As 2009 winds down and we try to come up with new and clever ways of referring to the early years of this century, there's really only one thing left to do -- declare our ten favorite <span class="red">gadgets</span> of the aughts and show them off in chronological order. It's arguable that if this wasn't the decade of <span class="red">gadgets</span>, it was certainly a decade shaped by <span class="red">gadgets</span> -- one which saw the birth of a new kind of connectedness.
+  source: <em>Engadget,</em> Dec 30, 2009
   link: tags/handy
 
 - name: <i class="fa fa-search" style="color:white"></i> Miniature
   description: A miniature object with no apparent or particular function. Also, a fashionable accessory, such as a lapel pin, or a bag.
   notes:
+  ex: Carole Lombard will have nary a jewel, never a wisp of ostrich, fringe or such clutter in her next film . . . you can’t miss allure if you follow Joan Crawford and sew all kinds and colors of silky hat flowers to a yard and a half of taffeta, and drape it over the shoulder to ward off sneezes when you step out to see how the moon is coming along . . . Smart <span class="red">gadget</span> is Grace Moore’s cravat, a straight band of dress material, an inch and a half wide, tied in a flat knot, and used on both evening and sport things.
+  source: <em>Hollywood,</em> July 1935
   link: tags/mini
 
 - name: <i class="fa fa-bicycle" style="color:white"></i> Vehicle
   description: The entirety of a vehicle, usually an automobile or a ship.
   notes:
+  ex: A trial recently took place at Bristol (as reported in the <em>Bristol Times and Mirror</em> of 10 June) for damage done to a '<span class="red">gadget</span>.'  The word does not occur in Halliwell, Smyth's 'Sailor's Word-Book,' or the 'H.E.D.'  It evidently is the name of some kind of boat, which in the present case was used for the discharge of vessels in the harbour.
+  source: <em>Notes and Queries,</em> 1899
   link: tags/vehicle
 
 - name: <i class="fa fa-spinner fa-pulse" style="color:white"></i> Placeholder
   description: A word that substitutes for the forgotten or ignored proper name of any given object. A word that signifies miscellany; sundry objects.
   notes: Placeholders often refer to kitchen gadgets, later electronic gadgets. Specific types of random tools. should I just remove all "placeholder" tags from the graphs? It's not interesting when the word stands for anything at all, right? Because I'm looking for the contours of that thing. Theoretically, I should never just have a "placeholder" category.  Sure, it's a placeholder, but for WHAT KIND of object?
+  ex: Opening night seats for all the plays I work on. The press agent offers them to his boss, the boss offers them to the president of the American <span class="red">Gadget</span> Corporation, and the president of the American <span class="red">Gadget</span> Corporation gives them to somebody else. Very seldom you can parlay a favour as much as that. Everybody's happy, and I get box seats for the ball games.
+  source: John O'Hara, <em>The Champagne Pool</em> (1962)
   link: tags/placeholder
 
 - name: <i class="fa fa-trademark" style="color:white"></i> Proper Name
   description: <em>Gadget</em> used as the proper name for a particular object.
+  ex: The tin tag in its present shape can not be used successfully on cotton banded with Churchill patented wire-tying machine, the '<span class="red">Gadget</span>,' but it would no doubt be made to conform to the new system.  When the '<span class="red">Gadget</span>' comes into general use cotton would be so much more mercifully handled by stevedores in breaking out at destination port that the smooth patch and the paper bag will likely be found to accomplish the end aimed at.
+  source: <em>American Association of Local Freight Agents' Associations,</em> 1909
   link: tags/propername
 
 - name: <i class="fa fa-comment" style="color:white"></i> Language
   description: A standardized piece of rhetoric often used in business and political contexts. Can be a part of speech, or even a devious idea or scheme.
+  ex: The machinery of propaganda is made of standardized <span class="red">gadgets</span> by which you can detect it. One of these standard gadgets is slogans.  The freeze the real process of thought. . . . One of these <span class="red">gadgets</span> is to create fear by describing the horrors of invasion of the United States by foreign armies.
+  source: Herbert Hoover, <em>Addresses Upon the American Road</em> (1949)
   link: tags/language
 
 - name: <i class="fa fa-question" style="color:white"></i> Miscellaneous
   description: None of the above categories, an idiosyncratic usage.
+  ex: But they did it again the next night in his room and the fiddler opened the door, his elasticized old-man <span class="red">gadgets</span> dangling, and caught them at it. Stern, in an action he could not explain, carried her, without a word to the old man, out the window and to the garden below, and they never did that thing again.
+  source: Hortense Calisher, <em>Tales for the Mirror</em> (1962)
   link: tags/misc

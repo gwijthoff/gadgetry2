@@ -8,19 +8,22 @@
   font-family: "Raleway Dots";
   font-size: 3rem; }
 
-.cf {
-  clear: both; }
-
-.cf-4th:nth-child(4n) {
-  margin-right: 0;
-  clear: both; }
-
-.p-fix:nth-child(3n) {
-  padding-right: 0;
-  margin-right: 0; }
-
 a {
   text-decoration: none; }
 
 .measure-wide {
   max-width: 40em; }
+
+/*
+for hover text swap
+https://codepen.io/ifekt/pen/zBaEVJ
+https://stackoverflow.com/questions/19058421/how-to-change-content-on-hover
+*/
+span.add-label {
+  display: none; }
+
+.item:hover span.align {
+  display: none; }
+
+.item:hover span.add-label {
+  display: block; }

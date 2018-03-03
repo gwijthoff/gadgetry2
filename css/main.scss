@@ -15,28 +15,29 @@
   font-size: 3rem;
 }
 
-.cf {
-  clear: both;
-}
-
-.cf-4th {
-  &:nth-child(4n) {
-    margin-right: 0;
-    clear: both;
-  }
-}
-
-.p-fix {
-  &:nth-child(3n) {
-    padding-right: 0;
-    margin-right: 0;
-  }
-}
-
-// keeps links from being underlined. But there's still a space between multiple tags…
+// keeps links from being underlined.
 a{text-decoration:none;}
 
 // Measure is limited to ~100? / 800px / 50em characters
 .measure-wide {
   max-width: 40em;
+}
+
+/*
+for hover text swap
+https://codepen.io/ifekt/pen/zBaEVJ
+https://stackoverflow.com/questions/19058421/how-to-change-content-on-hover
+*/
+
+.item {}
+.label {}
+.label.success {}
+span.add-label{
+ display:none;
+}
+.item:hover span.align{
+ display:none;
+}
+.item:hover span.add-label{
+ display:block;
 }
