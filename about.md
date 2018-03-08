@@ -7,9 +7,11 @@ This companion site contains research data and working notes for an upcoming boo
 
 Across the twentieth century, many kinds of objects were described as gadgets, from dashboard gauges to atomic bombs, can-openers to Walkmen. While "gadget" can be a placeholder for any kind of object, even imaginary ones, its evolving application to particular tools and techniques reveals important lessons about our relationship to technology. The gadget is a unique genre, comprising physical objects, conceptions, and habits.
 
+<!--
 The question is what the history of these techniques and ideas about technology can offer current impasses in emerging media, as we trade our privacy, attention, and confidence in the stability of the public sphere in exchange for a universe of information at our fingertips.
+-->
 
-For this book, I search databases of novels, magazines, and newspapers in order to explore the distinctly vernacular philosophies---the media theories from below---that emerge from users of technology and their everyday practices. Using databases like the Corpus of Historical American English, Readex's African American Newspapers, and the Media History Digital Library, I proceed by collecting as many instances of the word "gadget" as possible and plugging them into categories of my own making based on how the term is applied: is the gadget handmade or mass produced, seen as important or a trinket? Does the word refer to the entirety of the tool or a component within it? And so on.
+For this book, I search databases of novels, magazines, and newspapers in order to explore the distinctly vernacular philosophies --- the media theories from below --- that emerge from users of technology and their everyday practices. Using databases like the Corpus of Historical American English, Readex's African American Newspapers, and the Media History Digital Library, I proceed by collecting as many instances of the word "gadget" as possible and plugging them into categories of my own making based on how the term is applied: is the gadget handmade or mass produced, seen as important or a trinket? Does the word refer to the entirety of the tool or a component within it? And so on.
 
 Inspired by Otto Neurath's 1920s design of the [ISOTYPE](http://www.designhistory.org/Symbols_pages/isotype.html) system, categories of gadgetry are indicated by icons <a href="/tags/gauge"> <i class="fa fa-tachometer-alt" style="color:red"></i></a> throughout this site.
 
