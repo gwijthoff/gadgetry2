@@ -3,7 +3,23 @@ layout: visualize
 title: Forms of Gadgetry, 1900-1980
 ---
 
-Read more about these graphics [here.](/about#method)
+Read more about these graphics [here.](/about)
+
+<br>
+<br>
+◎ ◎ ◎ ◎ ◎ ◎ ◎
+{: style="text-align: center"}
+
+<article class="cf">
+  <div class="fl w-60 tc">
+    <div class="flourish-embed" data-src="visualisation/24264"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+  </div>
+  <div class="fl w-40 tj pa4-ns">
+    <br>
+    <br>
+    <h3>Somewhere around 1955, users of technology in America began to think more about the entirety of their tools than they thought about the parts and components of their tools.</h3>
+  </div>
+</article>
 
 <br>
 <br>
