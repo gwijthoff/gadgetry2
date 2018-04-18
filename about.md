@@ -32,11 +32,15 @@ Because I have hand-coded this "dataset" and designated myself the categories in
 - [Google Books](https://books.google.com/)
 - [Media History Digital Library](http://lantern.mediahist.org/)
 
+<!-- for talks…
+
 ## Dartmouth Media Inventories
 
 1. [Pitt Rivers, *The Evolution of Culture* Plate 3h (1875)](images/pittrivers_plate3h.png)
 2. [Pitt Rivers, *The Evolution of Culture* Plate 18h (1869)](images/pittrivers_plate18h.jpg)
 3. [Raymond Loewy, evolution chart (1933)](images/loewy_1933.jpg)
+
+-->
 
 <!-- more narrative section cut
 
