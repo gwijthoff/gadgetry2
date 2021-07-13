@@ -1,0 +1,8 @@
+I"�<p>Site’s bones are <a href="https://jekyllrb.com/">Jekyll</a> (a static site generator), fleshed out in <a href="http://tachyons.io/">Tachyons</a> (a CSS library).</p>
+
+<p>I compile my research data in a spreadsheet, export to CSV, then convert to JSON using <a href="http://csvkit.readthedocs.io/">csvkit</a>. This site then pulls from the JSON data each time it’s generated using the <a href="https://github.com/18F/jekyll-get">jekyll-get</a> plugin.</p>
+
+<p>My use of <a href="https://fontawesome.com/">Font Awesome</a> icons was inspired by Otto Neurath’s 1920s <a href="http://www.designhistory.org/Symbols_pages/isotype.html">ISOTYPE</a>.</p>
+
+<p><img src="/images/isotype1.gif" class="w-10" /> <img src="/images/isotype2.gif" class="w-10" /> <img src="/images/isotype3.gif" class="w-10" /> <img src="/images/isotype4.gif" class="w-10" /> <img src="/images/isotype5.gif" class="w-10" /></p>
+:ET

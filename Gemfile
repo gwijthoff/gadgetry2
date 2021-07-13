@@ -1,6 +1,5 @@
 source "https://rubygems.org"
 
 gem "jekyll"
-gem 'jekyll-seo-tag'
 gem 'hash-joiner'
 gem 'json'

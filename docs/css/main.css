@@ -1,29 +1,21 @@
-@import "https://fonts.googleapis.com/css?family=Raleway|Raleway+Dots";
-.roboto {
-  font-family: "Raleway";
-  letter-spacing: .05em;
-  padding: 25px; }
+@import 'https://fonts.googleapis.com/css?family=Raleway|Raleway+Dots';
+.roboto { font-family: "Raleway"; letter-spacing: .05em; padding: 25px; }
 
-.pagetitle {
-  font-family: "Raleway Dots";
-  font-size: 3rem; }
+.pagetitle { font-family: "Raleway Dots"; font-size: 3rem; }
 
-a {
-  text-decoration: none; }
+a { text-decoration: none; }
 
-.measure-wide {
-  max-width: 40em; }
+.measure-wide { max-width: 40em; }
 
 /*
 for hover text swap
 https://codepen.io/ifekt/pen/zBaEVJ
 https://stackoverflow.com/questions/19058421/how-to-change-content-on-hover
 */
-span.add-label {
-  display: none; }
+span.add-label { display: none; }
 
-.item:hover span.align {
-  display: none; }
+.item:hover span.align { display: none; }
 
-.item:hover span.add-label {
-  display: block; }
+.item:hover span.add-label { display: block; }
+
+/*# sourceMappingURL=main.css.map */

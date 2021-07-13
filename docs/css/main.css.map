@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "main.css",
+	"sources": [
+		"main.scss"
+	],
+	"sourcesContent": [
+		"@import 'https://fonts.googleapis.com/css?family=Raleway|Raleway+Dots';\n\n.roboto {\n  font-family: \"Raleway\";\n  letter-spacing: .05em;\n  padding: 25px;\n}\n\n.pagetitle {\n  font-family: \"Raleway Dots\";\n  font-size: 3rem;\n}\n\n// keeps links from being underlined.\na{text-decoration:none;}\n\n// Measure is limited to ~100? / 800px / 50em characters\n.measure-wide {\n  max-width: 40em;\n}\n\n/*\nfor hover text swap\nhttps://codepen.io/ifekt/pen/zBaEVJ\nhttps://stackoverflow.com/questions/19058421/how-to-change-content-on-hover\n*/\n\n.item {}\n.label {}\n.label.success {}\nspan.add-label{\n display:none;\n}\n.item:hover span.align{\n display:none;\n}\n.item:hover span.add-label{\n display:block;\n}\n"
+	],
+	"names": [],
+	"mappings": "AAAA,OAAO,CAAP,8DAAO;AAEP,AAAA,OAAO,CAAC,EACN,WAAW,EAAE,SAAS,EACtB,cAAc,EAAE,KAAK,EACrB,OAAO,EAAE,IAAI,GACd;;AAED,AAAA,UAAU,CAAC,EACT,WAAW,EAAE,cAAc,EAC3B,SAAS,EAAE,IAAI,GAChB;;AAGD,AAAA,CAAC,CAAA,EAAC,eAAe,EAAC,IAAI,GAAG;;AAGzB,AAAA,aAAa,CAAC,EACZ,SAAS,EAAE,IAAI,GAChB;;AAED;;;;EAIE;AAKF,AAAA,IAAI,AAAA,UAAU,CAAA,EACb,OAAO,EAAC,IAAI,GACZ;;AACD,AAAA,KAAK,CAAC,KAAK,CAAC,IAAI,AAAA,MAAM,CAAA,EACrB,OAAO,EAAC,IAAI,GACZ;;AACD,AAAA,KAAK,CAAC,KAAK,CAAC,IAAI,AAAA,UAAU,CAAA,EACzB,OAAO,EAAC,KAAK,GACb"
+}
